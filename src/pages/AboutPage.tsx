@@ -24,7 +24,7 @@ function AboutPage() {
             <p>
               We understand that clean windows enhance curb appeal, improve natural light, and 
               reflect the care you put into your home or business. That's why we approach every job — big 
-              or small — with precision. professionalism, and pride.
+              or small — with precision, professionalism, and pride.
             </p>
           </div>
 
